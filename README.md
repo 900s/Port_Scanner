@@ -40,8 +40,8 @@ SysScan 是一个基于 Python Socket 的轻量级 TCP 端口扫描工具，用�
 
 ```bash
 # 1. 克隆仓库（或直接下载 sys_scan.py 文件）
-git clone https://github.com/900s/port_scanner.git
-cd SysScan
+git clone https://github.com/900s/Port_Scanner.git
+cd Port_Scanner
 
 # 2. 运行扫描（控制台输入）
 python sys_scan.py 192.168.1.1
